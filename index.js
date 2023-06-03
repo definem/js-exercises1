@@ -64,9 +64,9 @@ var num1 = 2;
 var num2 = 41;
 var num3 = 65;
 
-...
-
 // 3-method
+
+// working with math library functions
 
 console.log(Math.max(1, 3, 2));
 
