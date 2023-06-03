@@ -64,19 +64,19 @@
 // 1-method
 
 /*
+chala
 var num1 = 2;
 var num2 = 41;
 var num3 = 65;
-chala
 */
 
-// // 3-method
+// // 2-method
 
 // // working with math library functions
 
 // console.log(Math.max(1, 3, 2));
 
-// // 4-method
+// // 3-method
 
 // const array = [-1, 2, -5, 8, 16];
 
@@ -87,8 +87,6 @@ chala
 //     max = array[i];
 //   }
 // }
-
-// console.log("max = " + max);
 
 // <---- Exercise-6 skipped---->
 
@@ -108,9 +106,9 @@ chala
 
 // // 2-method
 
-// let num1 = +prompt("Son 1");
-// let num2 = +prompt("Son 1");
-// let num3 = +prompt("Son 1");
+// let num1 = +prompt("Number 1");
+// let num2 = +prompt("Number 2");
+// let num3 = +prompt("Number 3");
 
 // let arr = [num1, num2, num3];
 
