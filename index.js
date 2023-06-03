@@ -1,5 +1,5 @@
 // <----Bismillah ---->
-//EXERCISES ARE NOT OPTIMAL 
+//NOT ALL PROBLEMS ARE OPTIMAL 
 
 // // <---- Exercise-2 and 3---->
 
@@ -172,5 +172,7 @@ const uzmobile = "+99899 ";
 const ums = "+99897 ";
 const humans = "+99888 ";
 const ucell = "+99895 ";
+
+
 
 
