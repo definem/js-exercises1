@@ -1,3 +1,4 @@
+// <----Bismillah ---->
 //EXERCISES ARE NOT OPTIMAL 
 
 // // <---- Exercise-2 and 3---->
@@ -148,4 +149,28 @@ chala
 // }else(weekdays !== '') {
 //   console.log('Something went wrong')
 // }
+
+// // method-2
+
+// let weekDay = +prompt ("Enter week day: ");
+
+// if (weekDay === 1) console.log("Du");
+// else if (weekDay === 2) console.log("Se");
+// else if (weekDay === 3) console.log("Cho");
+// else if (weekDay === 4) console.log("Pa");
+// else if (weekDay === 5) console.log("Ju"); 
+// else if (weekDay === 6) console.log("Sha"); 
+// else if (weekDay === 7) console.log("Ya");
+// else console.log()("Bunday hafta kuni mavjud emas");
+
+
+// <---- Exercise-10---->
+
+// method-1
+
+const uzmobile = "+99899 ";
+const ums = "+99897 ";
+const humans = "+99888 ";
+const ucell = "+99895 ";
+
 
