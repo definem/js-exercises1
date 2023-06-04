@@ -339,4 +339,17 @@ var num3 = 65;
 
 // console.log(urAge);
 
+// <---- Exercise-21---->
+
+// To be honest, I didn't even understand what I was doing :|
+
+// let num1 = 2;
+// let num2 = 8;
+// let num3 = 12;
+
+// if (num1 <= num2) console.log("It's true");
+// else if (num1 >= num2) console.log("It's false");
+// else if (num2 <= num3) console.log("It's true");
+// else if (num2 >= num3) console.log("It's false");
+
 
