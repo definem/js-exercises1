@@ -403,3 +403,7 @@ var num3 = 65;
 //   console.log("False");
 // }
 
+// <---- Exercise-25-26---->
+
+// uje ekran tablodan tashqarida ko'rinvotti, 
+// uxlamasam bomidiyov
