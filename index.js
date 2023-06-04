@@ -352,4 +352,15 @@ var num3 = 65;
 // else if (num2 <= num3) console.log("It's true");
 // else if (num2 >= num3) console.log("It's false");
 
+// <---- Exercise-22---->
+
+// // method-1
+
+// let number1 = 2;
+// let number2 = 3;
+
+// if (number1 % 2 === 0 || number2 % 2 === 0) console.log("True");
+// else if (number1 % 2 === 0 || number2 % 2 === 1) console.log("True");
+// else if (number1 % 2 === 1 || number2 % 2 === 1) console.log("False");
+// else if (number1 % 2 === 1 || number2 % 2 === 0) console.log("True");
 
