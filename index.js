@@ -330,6 +330,9 @@ var num3 = 65;
 
 // Yilga qarab yoshni hisoblovchi dastur.
 
+// I know this method only works for 2023.
+// I also know that this program isn't optimal.
+
 // let birthYear = +prompt("Enter your birth year: ");
 
 // let urAge = 2023 - birthYear
