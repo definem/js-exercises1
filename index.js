@@ -375,3 +375,15 @@ var num3 = 65;
 // else {
 //     console.log("Invalid number")
 // }
+
+// <---- Exercise-23---->
+
+// let number1 = +prompt("Enter first number");
+// let number2 = +prompt("Enter second number");
+// let number3 = +prompt("Enter third number");
+// let number4 = +prompt("Enter fourth number");
+
+// if (number1 > 0 && number2 > 0 && number3 > 0 && number4 > 0) console.log("True");
+// else{
+//     console.log("False");
+// }
