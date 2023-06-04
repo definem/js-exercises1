@@ -387,3 +387,19 @@ var num3 = 65;
 // else{
 //     console.log("False");
 // }
+
+// <---- Exercise-24---->
+
+// let number1 = +prompt("Enter first number");
+// let number2 = +prompt("Enter second number");
+// let number3 = +prompt("Enter third number");
+// let number4 = +prompt("Enter fourth number");
+
+// if (number1 > 0) console.log("True");
+// else if (number2 > 0) console.log("True");
+// else if (number3 > 0) console.log("True");
+// else if (number4 > 0) console.log("True");
+// else {
+//   console.log("False");
+// }
+
