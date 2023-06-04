@@ -1,5 +1,5 @@
 # js-exercises
-Homework-1. I just downloaded the initial part to increase the commit. I will post the rest soon
+Homework-1 in J's
 
 idk why i can't update this file, getting errors while this steps:
 
