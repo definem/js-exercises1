@@ -364,3 +364,14 @@ var num3 = 65;
 // else if (number1 % 2 === 1 || number2 % 2 === 1) console.log("False");
 // else if (number1 % 2 === 1 || number2 % 2 === 0) console.log("True");
 
+// // method-2
+
+// let number1 = +prompt("Enter first number");
+// let number2 = +prompt("Enter second number");
+
+// if (number1 % 2 === 0 && number2 % 2 === 0) console.log("True");
+// else if (number1 % 2 === 0 && number2 % 2 === 1) console.log("True");
+// else if (number1 % 2 === 1 && number2 % 2 === 1) console.log("False");
+// else {
+//     console.log("Invalid number")
+// }
