@@ -72,7 +72,7 @@ var num3 = 65;
 
 // // 2-method
 
-// // working with math library functions
+// // working with math class functions
 
 // console.log(Math.max(1, 3, 2));
 
