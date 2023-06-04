@@ -3,7 +3,7 @@ Homework-1. I just downloaded the initial part to increase the commit. I will po
 
 idk why i can't update this file, getting errors while this steps:
 
-![image](https://github.com/definem/js-exercises/assets/120991965/6c86c35d-a4cb-4169-8036-d60c3769583
+![image](https://github.com/definem/js-exercises/assets/120991965/6c86c35d-a4cb-4169-8036-d60c3769583)
 Exercise-20
 ![image](https://github.com/definem/js-exercises/assets/120991965/de6fead2-e022-4f9e-99e3-5b187e112a87)
 Exercise-21
