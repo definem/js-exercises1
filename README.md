@@ -24,6 +24,3 @@ Exercise-23
 Exercise-24
 <br>
 ![image](https://github.com/definem/js-exercises/assets/120991965/9adf56cc-d833-4797-95b5-7195beaba31f)
-<br>
-Exercise 25-26
-![image](https://github.com/definem/js-exercises/assets/120991965/94e9b80e-8abe-49dc-9d5e-bd76013463d0)
