@@ -282,7 +282,7 @@ var num3 = 65;
 
 // const max = Math.max(10, 5);
 
-// // method-3 chala
+// // method-3 
 
 // let num1 = +prompt("Enter a first number:");
 // let num2 = +prompt("Enter a second number:");
